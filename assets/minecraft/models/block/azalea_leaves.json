@@ -1,0 +1,7 @@
+{
+  "parent": "minecraft:block/leaves",
+  "textures": {
+    "all": "minecraft:block/azalea_leaves",
+	"border2": "minecraft:block/brown_concrete"
+  }
+}
