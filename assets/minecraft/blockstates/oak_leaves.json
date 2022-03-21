@@ -1,0 +1,13 @@
+{
+	"variants": {
+		"persistent=true": {
+			"model": "minecraft:block/oak_leaves_persistent"
+		},
+		"persistent=false,distance<7": {
+			"model": "minecraft:block/oak_leaves"
+		},
+		"persistent=false,distance=7": {
+			"model": "minecraft:block/oak_leaves_decaying"
+		}
+	}
+}
